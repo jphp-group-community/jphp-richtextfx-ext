@@ -2,7 +2,7 @@ name: 'jphp-richtextfx-ext'
 version: '1.3.1'
 description: 'RichTextArea for jphp-gui-ext'
 
-plugins: [Gradle, Hub, Doc]
+plugins: [ Gradle, Hub, Doc ]
 
 deps:
   jphp-runtime: '*'
